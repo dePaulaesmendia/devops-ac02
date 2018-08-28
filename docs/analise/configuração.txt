@@ -1,1 +1,16 @@
-O profissional será o responsável pela análise, projeto e implementação de diversos tipos de sistemas e software, voltados para variados setores da cadeia de produtividade. Os estudantes do curso aprenderão a lidar com linguagens de programação e também com padrões de internet para o desenvolvimento de aplicações. "É um curso de estudo intensivo, não pode ser largado, o aluno precisa estar estudando e se atualizando porque a área de tecnologia muda constantemente", explica o coordenador dos cursos superiores de tecnologia da FIAP, Leandro de Freitas.
+﻿O profissional será o responsável pela análise, projeto e 
+implementação de diversos tipos de sistemas e software, voltados 
+para variados setores da cadeia de produtividade. Os estudantes do 
+curso aprenderão a lidar com linguagens de programação e também com 
+padrões de internet para o desenvolvimento de aplicações. "É um curso 
+de estudo intensivo, não pode ser largado, o aluno precisa estar 
+estudando e se atualizando porque a área de tecnologia muda 
+constantemente", explica o coordenador dos cursos superiores 
+de tecnologia da FIAP, Leandro de Freitas.
+ O curso também envolve noções de gereciamento e administração e 
+pode ser indicado para quem deseja criar um negócio próprio, como 
+uma startup. O profissional mais experiente também pode se dedicar
+ à área de consultoria de sistemas de informação junto a empresas, 
+atuando como consultor de softwares e soluções para empresas que
+ querem otimizar sua cadeia de produção através da TI.
+
